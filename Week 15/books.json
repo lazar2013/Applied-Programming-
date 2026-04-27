@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "available": true
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "available": false
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925,
+      "available": true
+    },
+    {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "year": 1851,
+      "available": true
+    },
+    {
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "year": 1954,
+      "available": false
+    },
+    {
+      "title": "Before the Coffee Gets Cold",
+      "author": "Toshikazu Kawaguchi",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "title": "Of Mice and Men",
+      "author": "John Steinbeck",
+      "year": 1937,
+      "available": true
+    },
+    {
+      "title": "Charlotte's Web",
+      "author": "E.B. White",
+      "year": 1952,
+      "available": false
+    },
+    {
+      "title": "Tuck Everlasting",
+      "author": "Natalie Babbitt",
+      "year": 1975,
+      "available": true
+    },
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "year": 2020,
+      "available": true
+    }
+  ]
+}
