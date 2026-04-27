@@ -1,1 +1,8 @@
-
+You will create a JSON and XML version of data. this data could be read from an Internet application, API (Application Program Interface) or other data sources. then you will access that data within a Python program. This program should display the data accessed and then prompt the user repeatidly for a book title and display the title, author and year published. Display a message if the book title was not found. 
+Steps:
+1. Create a JSON file. Add up to 10 books into the file. 
+2. Write a Python program to access and read the JSON file and display its contents. (Load the file into a Python structure).
+3. Write a loop to repeatedly prompt the user for a book title. 
+4. Search the file for the title. If found display the title, author and year published. 
+5. If title is not found in the data, display the title and a "title not found" message.
+6. Develop the same steps but utilize XML instead of JSON.  
